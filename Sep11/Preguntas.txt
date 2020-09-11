@@ -1,0 +1,16 @@
+EQUIPO 4:
+Flor de María Lozano, Miguel Chávez, José Salvador, Edmundo Vázquez, Diana Avendano.
+
+BASE DE DATOS:
+marriage- https://github.com/resbaz/data/tree/master/marriage
+
+PREGUNTAS
+
+1. ¿Cómo es el índice de divorcios contra el de matrimonios?
+2. Comparar matrimonios por clase social.
+3. Comparar número de matrimonios/divorcios con el nivel escolar.
+4. Comparar hombres contra mujeres.
+5. Comparar por raza. 
+6. Identificar el año con más bodas, menos bodas, más divorcios, menos divorcios.
+7. Media, mediana y moda de matrimonios/divorcios a lo largo de los años.
+8. Comparar matrimonios por situación laboral.
